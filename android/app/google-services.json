@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1017631537152",
+    "project_id": "onlyrecipe-32cba",
+    "storage_bucket": "onlyrecipe-32cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017631537152:android:da7b194f22ac31a73580e5",
+        "android_client_info": {
+          "package_name": "io.kelompok2.onlyrecipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017631537152-cmdri98c35bsg5367gbqi5n9h0rcn5k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.kelompok2.onlyrecipeapp",
+            "certificate_hash": "ed4752cc8ad4f67828854e285986c9ca3e0858be"
+          }
+        },
+        {
+          "client_id": "1017631537152-2e3ussd7sqaisn9p48te9p5ut4qvuh7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnngai44laKKPGcvi4THayrUSNGM_-FeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017631537152-2e3ussd7sqaisn9p48te9p5ut4qvuh7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
